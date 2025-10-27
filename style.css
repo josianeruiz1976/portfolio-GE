@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    color: gray ;
+
+}
+
+header{
+    text-align: center;
+
+}
+
+span{
+    background-color: rgb(218, 107, 107);
+    color: white;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin:10px 0px 5px 15px;
+}
