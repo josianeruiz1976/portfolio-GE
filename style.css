@@ -1,7 +1,7 @@
 body{
     font-family: sans-serif;
     color: gray ;
-
+    padding: 5px;
 }
 
 header{
@@ -17,7 +17,26 @@ span{
     border-radius: 5px;
     margin:10px 0px 5px 15px;
 }
+div{
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
 
+main{
+    margin-top: 10px;
+}
+
+section{
+display: flex;
+justify-content: center;
+
+}
+
+img{
+    width: 200px;
+}
 *{
     padding: 0;
     margin: 0;
